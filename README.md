@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there! 
+My name is Brock Hartley. I'm currently pursuing an undergraduate degree in Computer Science and intend to graduation in 2028. I'm still exploring the various fields related to this major, and unsure of what I want to do specifically. 
+
+Outside of Comp Sci, I enjoying playing a variety of instruments, such as guitar, uke, drums, and piano. I also enjoy gaming, sewing, and skateboarding.
+
+**Languages:** Python
+
+**Contact me:** <bh037324@ohio.edu>
 
 <!--
 **brock00/brock00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
